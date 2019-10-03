@@ -1,0 +1,149 @@
+body {
+    background: lightgray;
+}
+
+.main-nav {
+    background: #ff6600;
+    max-width: 949px;
+    display: flex;
+    margin: 0 auto;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border: 1px solid white;
+    margin-top: 20px;
+    overflow: visible;
+}
+
+.main-nav a { 
+    color: white;
+
+}
+
+.line {
+    margin: auto 0;
+    height: 25px;
+    width: 1px;
+    background: white;
+    opacity: 0.7;
+}
+
+.main-logo img {
+    width: 150px;
+    padding-top: 10px;
+    max-width: 949px;
+    left: 353px;
+    position: relative;
+}
+
+.main-box {
+    background: #f5d03b;
+    max-width: 949px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin: 0 auto;
+    margin-top: -1px;
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+
+}
+
+.main-box h1 {
+    margin-right: 236px;
+}
+.paragraph {
+    margin-right: 37px;
+}
+
+.paragraph-1 {
+    margin-right: 30px;
+}
+
+.main-button {
+    margin-right: 396px;
+    background: #ff6600;
+    color: white;
+    border: none;
+}
+.main-grey {
+    background: #ffffff;
+    max-width: 949px;
+    border-right: 1px solid white;
+    border-left: 1px solid white; 
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around
+
+}
+.main-table{
+    width: 800px;
+    display: flex;
+    margin: 10px;
+    padding: 20px;
+    background: rgb(167, 166, 166);
+    color: white;
+}
+
+.main-list li{
+    list-style: none;
+    color:  rgb(172, 169, 169);
+    padding: 9.5px;
+}
+
+.main-line {
+    background: rgb(172, 169, 169);
+    height: 378px;
+    width: 1px;
+    margin-left:50px;
+    margin-right:40px;
+    margin-top: 8px;
+}
+
+.main-white {
+    background: #ffffff;
+    max-width: 949px;
+    border-right: 1px solid white;
+    border-left: 1px solid white; 
+    margin: 0 auto;
+    display: flex;
+    
+}
+
+.main-text {
+    padding: 15px;
+    color: rgb(172, 169, 169);
+}
+
+.main-img__one img {
+    margin-left: 40px;
+    padding: 10px;
+    width: 120px;
+    margin-top: 10px;
+}
+
+.main-footer {
+    background: rgb(211, 30, 30);
+    max-width: 949px;
+    border-right: 1px solid white;
+    border-left: 1px solid white; 
+    margin: 0 auto;
+    display: flex;
+    color: white;
+    border: 1px solid white;
+}
+
+.main-header__one,
+.main-header__two {
+    margin-top: 20px;
+}
+
+.main-header__one {
+    margin-right: 10px;
+}
+
+.main-header__one p,
+.main-header__two p {
+    margin-right: 40px;
+}
+ 
